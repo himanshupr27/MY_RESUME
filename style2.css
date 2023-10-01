@@ -1,0 +1,23 @@
+.container{
+display: block;
+}
+.left-side .sec1 img{
+    width:120px ;
+}
+.left-side .sec1 h2{
+    font-size: 25px;
+}
+.left-side .sec1 h4{
+    font-size: 19px;
+}
+.left-side .sec2,.left-side .sec3 {
+    font-size: 21px;
+}
+.left-side .sec2 ul,.left-side .sec3 ul {
+    font-size: 14px;
+    line-height: 27px;
+    margin-top: 5px;
+}
+.com{
+    font-size: 21px;
+}
